@@ -1,0 +1,12 @@
+com\bookrecommendation\servlets\Database.class
+SearchServlet.class
+com\mycompany\bookrecommendation\resources\JakartaEE10Resource.class
+Book.class
+com\mycompany\bookrecommendation\model\Book.class
+com\mycompany\bookrecommendation\JakartaRestConfiguration.class
+RecommendServlet.class
+com\bookrecommendation\AdminServlet.class
+com\bookrecommendation\LoginServlet.class
+com\bookrecommendation\util\DatabaseConnection.class
+Dashboard.class
+com\mycompany\bookrecommendation\RegisterServlet.class
